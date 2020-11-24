@@ -1,0 +1,6 @@
+D:\prog\4 sem\KSIS\Labs\Lab_4\TryPOP3\TrySMTP\bin\Debug\TrySMTP.exe.config
+D:\prog\4 sem\KSIS\Labs\Lab_4\TryPOP3\TrySMTP\bin\Debug\TrySMTP.exe
+D:\prog\4 sem\KSIS\Labs\Lab_4\TryPOP3\TrySMTP\bin\Debug\TrySMTP.pdb
+D:\prog\4 sem\KSIS\Labs\Lab_4\TryPOP3\TrySMTP\obj\Debug\TryPOP3.csprojAssemblyReference.cache
+D:\prog\4 sem\KSIS\Labs\Lab_4\TryPOP3\TrySMTP\obj\Debug\TrySMTP.exe
+D:\prog\4 sem\KSIS\Labs\Lab_4\TryPOP3\TrySMTP\obj\Debug\TrySMTP.pdb
